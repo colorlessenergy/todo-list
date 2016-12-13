@@ -14,6 +14,7 @@ var handlers = {
       createUl.appendChild(createLi);
     }
   },
+  
   addTodos: function () {
     todos.push({
       newTodo: newTodo.value,
